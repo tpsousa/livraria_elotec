@@ -17,6 +17,7 @@ body {
 .categorias {
     background-color: white;
     border-radius: 5px;
+    margin-top: 5px;
     margin-bottom: 10px;
     padding: 5px;
 }
@@ -140,3 +141,4 @@ footer {
 .menu li {
     font-size: 20px;
 }
+
