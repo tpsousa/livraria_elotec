@@ -15,7 +15,8 @@ body {
 }
 
 .categorias {
-    background-color: white;
+    background-color: rgb(233, 223, 223);
+    border: 2px solid rgb(233, 223, 223) ;
     border-radius: 5px;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -136,7 +137,14 @@ footer {
 
 .categorias p {
     font-size: 20px;
+
 }
+
+.categorias p :hover{
+  font-size: 15px;
+  color: red;
+}
+
 
 .menu li {
     font-size: 20px;
